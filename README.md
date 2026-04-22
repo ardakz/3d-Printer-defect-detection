@@ -58,4 +58,6 @@ YOLO-based models are widely used for real-time defect detection due to high spe
 - Roboflow
 - Telegram API
 
-## 📁 Project Structure
+## 👨‍💻 Author
+Ardak Abdullaev  
+Big Data Analytics student (AITU)
